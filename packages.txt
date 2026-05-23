@@ -1,0 +1,5 @@
+base base-devel linux linux-firmware linux-headers git curl
+plasma kde-applications sddm
+kvantum qt5ct qt6ct
+breeze breeze-gtk papirus-icon-theme
+plymouth
